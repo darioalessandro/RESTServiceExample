@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9043910B-7854-4B92-8F56-5E825E151B1F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iOSClient</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9EBC3D454483157AB1F9746D4E63024DD39760DF</key>
+		<string>https://github.com/darioalessandro/RESTServiceExample.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iOSClient/iOSClient.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9EBC3D454483157AB1F9746D4E63024DD39760DF</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/darioalessandro/RESTServiceExample.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9EBC3D454483157AB1F9746D4E63024DD39760DF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9EBC3D454483157AB1F9746D4E63024DD39760DF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RESTServiceExample</string>
+		</dict>
+	</array>
+</dict>
+</plist>
