@@ -34,6 +34,8 @@ THE SOFTWARE.
 
 public class MainActivity2 extends ActionBarActivity {
 
+    private String serverURL = "http://192.168.43.65:9000";
+
     private String TAG = MainActivity2.class.getName();
 
     @Override
@@ -51,7 +53,7 @@ public class MainActivity2 extends ActionBarActivity {
             public void onComplete(String result) {
                 Log.d(TAG,result);
             }
-        }).execute("http://192.168.43.65:9000/hiServer");
+        }).execute(serverURL+"/hiServer");
     }
 
     public void executeHTTPPost(){
@@ -60,7 +62,7 @@ public class MainActivity2 extends ActionBarActivity {
             public void onComplete(String result) {
                 Log.d(TAG,result);
             }
-        }).execute("http://192.168.43.65:9000/echo", new Date().toString());
+        }).execute(serverURL+"/echo", new Date().toString());
     }
 
     @Override
